@@ -1,0 +1,8 @@
+{
+  "name": "SHARK-Homepage",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sharks-Development/SHARK-Homepage.git",
+  "author": "David <David_b-95@hotmail.de>",
+  "license": "MIT"
+}
