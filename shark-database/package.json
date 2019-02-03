@@ -1,0 +1,10 @@
+{
+  "name": "shark-database",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Sharks-Development",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mongoose": "^5.4.7"
+  }
+}

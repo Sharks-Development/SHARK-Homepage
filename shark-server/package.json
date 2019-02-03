@@ -1,0 +1,10 @@
+{
+  "name": "shark-server",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Sharks-Development",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.6.2"
+  }
+}

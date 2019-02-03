@@ -4,5 +4,20 @@
   "main": "index.js",
   "repository": "https://github.com/Sharks-Development/SHARK-Homepage.git",
   "author": "David <David_b-95@hotmail.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "private":true,
+  "devDependencies": {
+    "eslint": "5.6.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-jest-enzyme": "^7.0.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-monorepo": "^0.2.1",
+    "eslint-plugin-react": "^7.11.1"
+  },
+  "workspaces": [
+    "shark-database/",
+    "shark-frontend/",
+    "shark-server/"
+  ]
 }
