@@ -1,0 +1,1 @@
+//FIXME: add executable script which executes commands to handle frontend, backend and server

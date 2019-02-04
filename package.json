@@ -18,6 +18,7 @@
   "workspaces": [
     "shark-database/",
     "shark-frontend/",
-    "shark-server/"
+    "shark-server/",
+    "shark-adminscript"
   ]
 }
